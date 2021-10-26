@@ -50,6 +50,11 @@
 
 * https://www.aigei.com/ 爱给网
 
+# GUI
+* GIO
+https://gioui.org/
+* https://github.com/hajimehoshi/ebiten
+
 # Shader
 * https://www.shadertoy.com/
 
